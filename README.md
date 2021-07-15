@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 🎉
 
-<!--
-**alexmuriukimaina/alexmuriukimaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Am Alex
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Reactjs Applications
+- 🌱 I’m currently learning React Testing Library which is a set of helpers that let you test React components without relying on their implementation details
+- 👯 I’m looking to collaborate on Javscript/Reactjs/ReactNative projects that can make our lives much simpler 🤸‍♂️
+- 🤔 I’m looking for help with understanding how blockchain works... Really 🤔
+- 💬 Ask me about any topic related to javascript 
+- 📫 How to reach me: [Email](mailto:alexmuriukimaina254@gmail.com) 📧
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I love long distance running.
