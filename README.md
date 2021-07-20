@@ -21,7 +21,7 @@
 
 
 ## 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="JS Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="JS Logo" width="50" height="50"/>     <img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="JS Logo" width="50" height="50"/>      <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="JS Logo" width="50" height="50"/>
 
 
 ## Reach me
