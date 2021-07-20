@@ -1,7 +1,7 @@
 ### Hi there 👋 Am Alex
 
 ## I love code it works like magic
-![](https://octodex.github.com/images/Fintechtocat.png =250x)
+![](https://octodex.github.com/images/Fintechtocat.png =250x100)
 
 - 🔭 I’m currently working on Reactjs Applications
 
