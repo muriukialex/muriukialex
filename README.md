@@ -17,7 +17,7 @@
 
 
 ## 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="JS Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="JS Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="JS Logo" width="50" height="50"/>    
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS Logo" width="50" height="50"/>     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>      <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="JS Logo" width="50" height="50"/>      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="JS Logo" width="50" height="50"/>     <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="JS Logo" width="50" height="50"/>    
 
 ## Reach me
 <a href = "https://twitter.com/a_muriuki" ><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=alex&style=social&url=https%3A%2F%2Ftwitter.com%2Fa_muriuki" target="_blank"></a>
