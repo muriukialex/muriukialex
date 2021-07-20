@@ -11,10 +11,17 @@
 - ⚡ Fun fact: I love long distance running.
 
 
-Web - Applications | Mobile Native Applications
+Tech stacks | Tools I use
 ------------ | -------------
-HTML | React Native
-CSS | Flutter
+HTML | StackOverflow
+CSS | Google
+Javascript | Geeks for geeks
+Reactjs | Reactjs DOCS
+ReactNative | 
+
+![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fa_muriuki)
+
+
 
 
 ![imageofOctoCat](https://octodex.github.com/images/mona-the-rivetertocat.png)
