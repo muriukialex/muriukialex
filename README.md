@@ -19,8 +19,7 @@ Javascript | Geeks for geeks
 Reactjs | Reactjs DOCS
 ReactNative | 
 
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fa_muriuki">
-
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=alex&style=social&url=https%3A%2F%2Ftwitter.com%2Fa_muriuki" href="https://twitter.com/a_muriuki" target="_blank">
 
 
 
