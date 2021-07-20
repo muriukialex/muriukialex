@@ -1,7 +1,7 @@
 ### Hi there 👋 Am Alex
 
 ## I love code
-<img src="https://octodex.github.com/images/Fintechtocat.png" width= "350">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width= "350">
 
 - 🔭 I’m currently working on Reactjs Applications
 
