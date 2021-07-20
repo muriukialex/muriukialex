@@ -1,6 +1,6 @@
 ### Hi there 👋 Am Alex
 
-(https://octodex.github.com/images/mona-the-rivetertocat.png)
+![imageofOctoCat](https://octodex.github.com/images/mona-the-rivetertocat.png)
 
 - 🔭 I’m currently working on Reactjs Applications
 - 🌱 I’m currently learning React Testing Library which is a set of helpers that let you test React components without relying on their implementation details
