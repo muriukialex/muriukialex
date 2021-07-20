@@ -1,6 +1,7 @@
 ### Hi there 👋 Am Alex
 
 ## I love code it works like magic
+![](https://octodex.github.com/images/NUX_Octodex.gif)
 
 - 🔭 I’m currently working on Reactjs Applications
 
