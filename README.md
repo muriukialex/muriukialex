@@ -24,7 +24,15 @@
 ## 🧰 Toolbox
 <a href="https://app.netlify.com/"><img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify Logo" width="50" height="50" title="Netlify"/></a>       <a href="https://stackoverflow.com/"><img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="StackOverflow Logo" width="50" height="50" title="StackOveflow"/></a>        <a href="https://google.com"><img src="https://cdn.worldvectorlogo.com/logos/google-1-1.svg" alt="Google Logo" width="50" height="50" title="Google"/></a>    <a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio code Logo" width="50" height="50" title="Visual Studio Code"/></a>
 
+---
 
+## 📈 My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmuriukimaina&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmuriukimaina&theme=radical)](https://github.com/alexmuriukimaina/github-readme-stats)
+
+ 
 ## Reach out to me
 <a href = "https://twitter.com/a_muriuki" ><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=alex&style=social&url=https%3A%2F%2Ftwitter.com%2Fa_muriuki" target="_blank"></a>
 
