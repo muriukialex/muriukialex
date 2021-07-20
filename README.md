@@ -10,10 +10,11 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love long distance running.
 
-First Header | Second Header
+
+Web - Applications | Mobile Native Applications
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+HTML | React Native
+CSS | Flutter
 
 
 ![imageofOctoCat](https://octodex.github.com/images/mona-the-rivetertocat.png)
