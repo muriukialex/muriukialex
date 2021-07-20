@@ -1,8 +1,7 @@
 ### Hi there 👋 Am Alex
 
 ## I love code it works like magic
-![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=200)
-![](https://octodex.github.com/images/Fintechtocat.png?v=4&s=200)
+![](https://octodex.github.com/images/Fintechtocat.png =250x)
 
 - 🔭 I’m currently working on Reactjs Applications
 
