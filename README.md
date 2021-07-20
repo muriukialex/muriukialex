@@ -24,8 +24,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="JS Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="JS Logo" width="50" height="50"/>        <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="JS Logo" width="50" height="50"/>
 
 
-## Reach me
+## Reach out to me
 <a href = "https://twitter.com/a_muriuki" ><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=alex&style=social&url=https%3A%2F%2Ftwitter.com%2Fa_muriuki" target="_blank"></a>
-📫 [📧](mailto:alexmuriukimaina254@gmail.com) 
+ ![📫](mailto:alexmuriukimaina254@gmail.com) 
 
 ![imageofOctoCat](https://octodex.github.com/images/mona-the-rivetertocat.png)
