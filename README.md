@@ -1,7 +1,7 @@
 ### Hi there 👋 Am Alex
 
 ## I love code it works like magic
-![](https://octodex.github.com/images/NUX_Octodex.gif)
+![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=200)
 
 - 🔭 I’m currently working on Reactjs Applications
 
