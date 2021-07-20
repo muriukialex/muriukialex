@@ -17,11 +17,11 @@
 
 
 ## 🛠 Technologies
-<a href="https://devdocs.io/css/"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="JS Logo" width="50" height="50"/></a>     <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS Logo" width="50" height="50"/>     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>      <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="JS Logo" width="50" height="50"/>      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="JS Logo" width="50" height="50"/>     <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="JS Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="JS Logo" width="50" height="50"/>
+<a href="https://devdocs.io/css/"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="JS Logo" width="50" height="50"/></a>     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS Logo" width="50" height="50"/></a>     <a href="https://reactjs.org/docs/getting-started.html"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/></a>      <a href="https://api.jquery.com/"><img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="JS Logo" width="50" height="50"/></a>      <a href="https://nodejs.org/en/docs/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="JS Logo" width="50" height="50"/></a>     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="JS Logo" width="50" height="50"/></a>    <a href="https://reactnative.dev/docs/getting-started"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="JS Logo" width="50" height="50"/></a>
 
 
 ## 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="JS Logo" width="50" height="50"/>       <img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="JS Logo" width="50" height="50"/>        <img src="https://cdn.worldvectorlogo.com/logos/google-1-1.svg" alt="JS Logo" width="50" height="50"/>
+<a href="app.netlify.com"><img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="JS Logo" width="50" height="50"/></a>       <a href="https://stackoverflow.com/"><img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="JS Logo" width="50" height="50"/></a>        <a href="google.com"><img src="https://cdn.worldvectorlogo.com/logos/google-1-1.svg" alt="JS Logo" width="50" height="50"/></a>
 
 
 ## Reach out to me
