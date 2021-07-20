@@ -1,6 +1,5 @@
 ### Hi there 👋 Am Alex
 
-## I love code
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width= "200">
 
 - 🔭 I’m currently working on Reactjs Applications
