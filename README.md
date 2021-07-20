@@ -22,7 +22,7 @@
 
  
 ## 🧰 Toolbox
-<a href="https://app.netlify.com/"><img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="JS Logo" width="50" height="50"/></a>       <a href="https://stackoverflow.com/"><img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="JS Logo" width="50" height="50"/></a>        <a href="https://google.com"><img src="https://cdn.worldvectorlogo.com/logos/google-1-1.svg" alt="JS Logo" width="50" height="50"/></a>    <a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="JS Logo" width="50" height="50"/></a>
+<a href="https://app.netlify.com/"><img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify Logo" width="50" height="50"/></a>       <a href="https://stackoverflow.com/"><img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="StackOverflow Logo" width="50" height="50"/></a>        <a href="https://google.com"><img src="https://cdn.worldvectorlogo.com/logos/google-1-1.svg" alt="Google Logo" width="50" height="50"/></a>    <a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio code Logo" width="50" height="50"/></a>
 
 
 ## Reach out to me
