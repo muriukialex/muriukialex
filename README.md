@@ -1,7 +1,7 @@
 ### Hi there 👋 Am Alex
 
 ## I love code it works like magic
-![NUXtocat](https://octodex.github.com/images/NUX_Octodex.gif)
+![NUXtocat](https://octodex.github.com/images/Fintechtocat.png)
 
 - 🔭 I’m currently working on Reactjs Applications
 
