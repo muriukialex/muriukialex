@@ -21,7 +21,7 @@
 
 
 ## 🧰 Toolbox
-<a href="app.netlify.com"><img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="JS Logo" width="50" height="50"/></a>       <a href="https://stackoverflow.com/"><img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="JS Logo" width="50" height="50"/></a>        <a href="google.com"><img src="https://cdn.worldvectorlogo.com/logos/google-1-1.svg" alt="JS Logo" width="50" height="50"/></a>
+<a href="https://app.netlify.com/"><img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="JS Logo" width="50" height="50"/></a>       <a href="https://stackoverflow.com/"><img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="JS Logo" width="50" height="50"/></a>        <a href="https://google.com"><img src="https://cdn.worldvectorlogo.com/logos/google-1-1.svg" alt="JS Logo" width="50" height="50"/></a>
 
 
 ## Reach out to me
