@@ -25,12 +25,12 @@
 ---
 
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmuriukimaina&theme=radical)](https://github.com/alexmuriukimaina/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinydev-ke&theme=radical)](https://github.com/tinydev-ke/github-readme-stats)
 
  
 ## Reach out to me
 <a href = "https://twitter.com/a_tinydev" ><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=alex&style=social&url=https%3A%2F%2Ftwitter.com%2Fa_muriuki" target="_blank"></a>
-![](https://komarev.com/ghpvc/?username=alexmuriukimaina&style=flat-square)
+![](https://komarev.com/ghpvc/?username=tinydev-ke&style=flat-square)
 
  Email [📫](mailto:alexmuriukimaina254@gmail.com) 
 
