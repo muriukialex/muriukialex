@@ -1,12 +1,6 @@
 ### Hi there 👋 Am Alex
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width= "200" alt="octodex image" title="Octodex">
 
-- 🔭 I’m currently working on Reactjs Applications
-
-- 💬 Ask me about any topic related to javascript 
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love long distance running.
 
 
 
