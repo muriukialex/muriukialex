@@ -1,7 +1,5 @@
 ### Hi there 👋 Am Alex
 
-# am a software developer
-
 
 
 
@@ -10,7 +8,7 @@
 
 
 ## 🛠 Technologies I use
-<a href="https://devdocs.io/css/"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50" title="css"/></a>     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS Logo" width="50" height="50" title="JS"/></a>     <a href="https://reactjs.org/docs/getting-started.html"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50" title="React"/></a>      <a href="https://api.jquery.com/"><img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQquery Logo" width="50" height="50" title="jQuery"/></a>      <a href="https://nodejs.org/en/docs/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Nodejs Logo" width="50" height="50" title="Nodejs"/></a>     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50" title="HTML"/></a>    <a href="https://reactnative.dev/docs/getting-started"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native Logo" width="50" height="50" title="React Native"/></a>
+<a href="https://devdocs.io/css/"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="5" height="5" title="css"/></a>     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS Logo" width="50" height="50" title="JS"/></a>     <a href="https://reactjs.org/docs/getting-started.html"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50" title="React"/></a>      <a href="https://api.jquery.com/"><img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQquery Logo" width="50" height="50" title="jQuery"/></a>      <a href="https://nodejs.org/en/docs/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Nodejs Logo" width="50" height="50" title="Nodejs"/></a>     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50" title="HTML"/></a>    <a href="https://reactnative.dev/docs/getting-started"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native Logo" width="50" height="50" title="React Native"/></a>
 
 
  
