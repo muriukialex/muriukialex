@@ -11,7 +11,7 @@
 
 <br />
 
-hi, i'm [Alex](https://alexmuriuki.com), a passionate web developer and a software engineer from +254. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Alex](https://alexmuriuki.com), am a passionate software engineer from +254. I 💙 dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -55,7 +55,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muriukialex&show_icons=true&theme=gotham" alt="tinydev-ke" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muriukialex&show_icons=true&theme=gotham" alt="muriukialex" />
 
 
 
