@@ -11,15 +11,15 @@
 
 <br />
 
-hi, i'm [Alex](https://alexmuriuki.com), am a passionate software engineer from +254.  i  💙  dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Alex](https://alexmuriuki.com), am a Kenyan 🇰🇪 software engineer.  i dream up ideas and make them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Would love to reach me? [email](mailto:alexmuriukimaina254@gmail.com) :)
-- 💬 ask me about anything, happy to collaborate;
+- 💼 Would love to reach me? [email](mailto:alexmuriukimaina254@gmail.com) 😁
+- 💬 ask me about anything (tech related 😇), happy to collaborate;
 
 **languages and tools:**  
 
@@ -34,10 +34,10 @@ i am also an open-source enthusiast. i learned a lot from the open-source commun
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JSX          > 4 hrs   ████████▓░░░░░░░░░░░░░░░░   35.27 % 
-JavaScript   > 3 hrs   ████████▓░░░░░░░░░░░░░░░░   34.75 % 
-TypeScript   > 3 hrs   ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-JSON         > 3 hrs   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+JSX          > 14 hrs   ████████▓░░░░░░░░░░░░░░░░   87.27 % 
+JavaScript   > 14 hrs   ████████▓░░░░░░░░░░░░░░░░   95.75 % 
+TypeScript   > 14 hrs   ███████░░░░░░░░░░░░░░░░░░   85.40 % 
+JSON         > 14 hrs   ▒░░░░░░░░░░░░░░░░░░░░░░░░   80.54 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -47,9 +47,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoList stats:**
 <!-- TODO-IST:START -->        
-🌸  Completed >13 tasks today           
-✅  Completed >500 tasks so far           
-⏳  Longest streak is 10 days
+🌸  When I start I complete         
+✅  Completed a lot of tasks today, believe me 😃          
 <!-- TODO-IST:END -->
 
 
