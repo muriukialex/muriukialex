@@ -31,25 +31,9 @@ i am also an open-source enthusiast. i learned a lot from the open-source commun
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JSX          > 14 hrs   ████████▓░░░░░░░░░░░░░░░░   87.27 % 
-JavaScript   > 14 hrs   ████████▓░░░░░░░░░░░░░░░░   95.75 % 
-TypeScript   > 14 hrs   ███████░░░░░░░░░░░░░░░░░░   85.40 % 
-JSON         > 14 hrs   ▒░░░░░░░░░░░░░░░░░░░░░░░░   80.54 % 
-```
-<!--END_SECTION:waka-->
-
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/muriukialex" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Alex A Coffee" width="150" ></a>
-
-🚧 **my todoList stats:**
-<!-- TODO-IST:START -->        
-🌸  When I start I complete         
-✅  Completed a lot of tasks today, believe me 😃          
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
