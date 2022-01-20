@@ -36,9 +36,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/muriukialex" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Alex A Coffee" width="150" ></a>
 
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muriukialex&show_icons=true&theme=gotham" alt="muriukialex" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muriukialex&show_icons=true&theme=gotham" alt="muriukialex" /></p>
 
 
 
