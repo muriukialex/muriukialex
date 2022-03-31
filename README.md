@@ -9,7 +9,7 @@ Am also an open-source enthusiast. I learn a lot from the open-source community 
 <br />
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+  <img align="right" alt="GIF" src=https://octodex.github.com/images/scubatocat.png width="400" height="380" />
   
 - 💼 Would love to reach me? [email](mailto:alexmuriukimaina254@gmail.com) 😁
 - 💬 ask me about anything (tech related 😇), happy to collaborate;
