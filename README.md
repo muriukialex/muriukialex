@@ -4,8 +4,6 @@
   <img align="left" alt="Alex Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=tinydev-ke)
-
 <br />
 
 Hi, I'm [Alex](https://alexmuriuki.com), am a Kenyan 🇰🇪 software engineer.  I dream up ideas and make them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -13,7 +11,7 @@ Hi, I'm [Alex](https://alexmuriuki.com), am a Kenyan 🇰🇪 software engineer.
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="320" />
   
 - 💼 Would love to reach me? [email](mailto:alexmuriukimaina254@gmail.com) 😁
 - 💬 ask me about anything (tech related 😇), happy to collaborate;
