@@ -1,17 +1,15 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/alex-muriuki-maina/">
-  <img align="left" alt="Alex Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<br />
+
+I'm [Alex](https://alexmuriuki.com), am a Kenyan 🇰🇪 software engineer.  I dream up ideas and make them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+Am also an open-source enthusiast. I learn a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
 <br />
 
-Hi, I'm [Alex](https://alexmuriuki.com), am a Kenyan 🇰🇪 software engineer.  I dream up ideas and make them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
   
 - 💼 Would love to reach me? [email](mailto:alexmuriukimaina254@gmail.com) 😁
 - 💬 ask me about anything (tech related 😇), happy to collaborate;
