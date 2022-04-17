@@ -9,28 +9,15 @@ Am also an open-source enthusiast. I learn a lot from the open-source community 
 
 <br />
 
-
-  <img align="right" alt="GIF" src=https://octodex.github.com/images/scubatocat.png width="400" height="380" />
   
 - 💼 Would love to reach me? [email](mailto:alexmuriukimaina254@gmail.com) 😁
-- 💬 ask me about anything (tech related 😇), happy to collaborate;
 
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, maybe consider buying me a coffee 🥺
 
 <a href="https://www.buymeacoffee.com/muriukialex" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Alex A Coffee" width="150" ></a>
 
 #### 👇🏾 or you can MPESA me here 😊
-<a href="https://tinypesa.com/muriuki"><img src="https://lh3.googleusercontent.com/zKQbNxsFI1CWkhouAuPErqXji1baNZdA7Gn1hle9aN-11TOjPEHwN_hVUu2MSZzZPhbimyvuUdNCAPnJWSEWACXb1d-z-uWgCK8-CNdomn4k2-Gzs6EYffwYmcqjhFOyZKtswLqVSmk9gID9ug" alt="mpesa me" height="120px"></a>
+<a href="https://tinypesa.com/muriuki"><img src="https://lh3.googleusercontent.com/zKQbNxsFI1CWkhouAuPErqXji1baNZdA7Gn1hle9aN-11TOjPEHwN_hVUu2MSZzZPhbimyvuUdNCAPnJWSEWACXb1d-z-uWgCK8-CNdomn4k2-Gzs6EYffwYmcqjhFOyZKtswLqVSmk9gID9ug" alt="mpesa me" width="100px"></a>
 
 
 <p align="left" style="margin-top: 40px;"> <img src="https://github-readme-stats.vercel.app/api?username=muriukialex&show_icons=true&theme=gotham" alt="muriukialex" /></p>
