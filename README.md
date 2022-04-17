@@ -2,7 +2,8 @@
 
 <br />
 
-I'm [Alex](https://alexmuriuki.com), am a Kenyan 🇰🇪 software engineer.  I dream up ideas and make them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm [Alex](https://alexmuriuki.com), am a Kenyan 🇰🇪 software engineer.<br/>
+> Am concerned about code quality and great user experiences 
 
 Am also an open-source enthusiast. I learn a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
