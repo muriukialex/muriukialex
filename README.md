@@ -1,7 +1,3 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<br />
-
 I'm [Alex](https://alexmuriuki.com), am a Kenyan 🇰🇪 software engineer.<br/>
 > Am concerned about code quality and great user experiences 
 
