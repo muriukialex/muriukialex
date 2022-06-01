@@ -7,7 +7,7 @@ Am also an open-source enthusiast. I learn a lot from the open-source community 
 <br />
 
   
-- 💼 Would love to reach me? [email](mailto:alexmuriukimaina254@gmail.com) 😁
+💼 Would you love to reach me? Just shoot me an [email](mailto:alexmuriukimaina254@gmail.com) 😁
 
 <!-- If you like what I do, maybe consider buying me a coffee 🥺
 
