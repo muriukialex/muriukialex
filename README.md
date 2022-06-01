@@ -1,5 +1,6 @@
-I'm [Alex](https://alexmuriuki.com), am a Kenyan 🇰🇪 software engineer.<br/>
-> Am concerned about code quality and great user experiences 
+Hello, I'm [Alex](https://alexmuriuki.com), am a Kenyan 🇰🇪 software engineer.
+
+> Am particularly concerned about code quality and great user experiences 
 
 Am also an open-source enthusiast. I learn a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
