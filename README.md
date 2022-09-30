@@ -1,4 +1,4 @@
-Hello, I'm [Alex](https://alexmuriuki.com).
+Hello, I'm Alex.
 
 > I write code and create great user experiences in applications 
 
